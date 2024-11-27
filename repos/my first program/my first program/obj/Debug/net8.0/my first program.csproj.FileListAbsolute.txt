@@ -1,0 +1,4 @@
+C:\Users\manish\source\repos\my first program\my first program\obj\Debug\net8.0\my first program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manish\source\repos\my first program\my first program\obj\Debug\net8.0\my first program.AssemblyInfoInputs.cache
+C:\Users\manish\source\repos\my first program\my first program\obj\Debug\net8.0\my first program.AssemblyInfo.cs
+C:\Users\manish\source\repos\my first program\my first program\obj\Debug\net8.0\my first program.csproj.CoreCompileInputs.cache

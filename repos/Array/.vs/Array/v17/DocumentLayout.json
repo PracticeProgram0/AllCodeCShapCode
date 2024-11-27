@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{867CFA9E-1A6F-47E4-A81D-6D140F142D2C}|Array\\Array.csproj|c:\\users\\manish\\source\\repos\\array\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867CFA9E-1A6F-47E4-A81D-6D140F142D2C}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Array\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Array\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:06:47.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

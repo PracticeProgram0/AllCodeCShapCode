@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\Asp.net\Asp.net\bin\Debug\Asp.net.exe.config
+C:\Users\manish\source\repos\Asp.net\Asp.net\bin\Debug\Asp.net.exe
+C:\Users\manish\source\repos\Asp.net\Asp.net\bin\Debug\Asp.net.pdb
+C:\Users\manish\source\repos\Asp.net\Asp.net\obj\Debug\Asp.net.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\Asp.net\Asp.net\obj\Debug\Asp.net.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\Asp.net\Asp.net\obj\Debug\Asp.net.exe
+C:\Users\manish\source\repos\Asp.net\Asp.net\obj\Debug\Asp.net.pdb

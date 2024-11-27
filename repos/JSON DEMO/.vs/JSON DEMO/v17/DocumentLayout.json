@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|c:\\users\\manish\\source\\repos\\json demo\\json demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|solutionrelative:json demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|C:\\Users\\manish\\source\\repos\\JSON DEMO\\json demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|solutionrelative:json demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|C:\\Users\\manish\\source\\repos\\JSON DEMO\\json demo\\scripts\\myjsfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|solutionrelative:json demo\\scripts\\myjsfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|C:\\Users\\manish\\source\\repos\\JSON DEMO\\json demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D61E518-BA21-4875-9FBB-F65DB89ECB11}|JSON DEMO\\JSON DEMO.csproj|solutionrelative:json demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "JSON DEMO\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Models\\Student.cs",
+              "RelativeToolTip": "JSON DEMO\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:47:13.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyJSFile.js",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Scripts\\MyJSFile.js",
+              "RelativeDocumentMoniker": "JSON DEMO\\Scripts\\MyJSFile.js",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Scripts\\MyJSFile.js",
+              "RelativeToolTip": "JSON DEMO\\Scripts\\MyJSFile.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-19T08:46:11.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JSON DEMO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JSON DEMO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T08:45:28.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JSON DEMO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JSON DEMO\\JSON DEMO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JSON DEMO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:45:14.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

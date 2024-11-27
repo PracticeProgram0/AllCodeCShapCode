@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Layout_page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DECE0D09-A291-4A35-A5EF-03F656F47DFB}|Layout_page\\Layout_page.csproj|C:\\Users\\manish\\source\\repos\\Layout_page\\layout_page\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECE0D09-A291-4A35-A5EF-03F656F47DFB}|Layout_page\\Layout_page.csproj|solutionrelative:layout_page\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECE0D09-A291-4A35-A5EF-03F656F47DFB}|Layout_page\\Layout_page.csproj|c:\\users\\manish\\source\\repos\\layout_page\\layout_page\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DECE0D09-A291-4A35-A5EF-03F656F47DFB}|Layout_page\\Layout_page.csproj|solutionrelative:layout_page\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECE0D09-A291-4A35-A5EF-03F656F47DFB}|Layout_page\\Layout_page.csproj|c:\\users\\manish\\source\\repos\\layout_page\\layout_page\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DECE0D09-A291-4A35-A5EF-03F656F47DFB}|Layout_page\\Layout_page.csproj|solutionrelative:layout_page\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_page\\Layout_page\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Layout_page\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_page\\Layout_page\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Layout_page\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T14:52:45.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_page\\Layout_page\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Layout_page\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_page\\Layout_page\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Layout_page\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T13:42:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_page\\Layout_page\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Layout_page\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_page\\Layout_page\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Layout_page\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:38:16.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

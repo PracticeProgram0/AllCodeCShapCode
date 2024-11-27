@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Model_html_hyper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA50824-CD38-4D04-B484-44E542232F62}|Model_html_hyper\\Model_html_hyper.csproj|c:\\users\\manish\\source\\repos\\model_html_hyper\\model_html_hyper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA50824-CD38-4D04-B484-44E542232F62}|Model_html_hyper\\Model_html_hyper.csproj|solutionrelative:model_html_hyper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA50824-CD38-4D04-B484-44E542232F62}|Model_html_hyper\\Model_html_hyper.csproj|c:\\users\\manish\\source\\repos\\model_html_hyper\\model_html_hyper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA50824-CD38-4D04-B484-44E542232F62}|Model_html_hyper\\Model_html_hyper.csproj|solutionrelative:model_html_hyper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Model_html_hyper\\Model_html_hyper\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model_html_hyper\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Model_html_hyper\\Model_html_hyper\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Model_html_hyper\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:04:14.653Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Model_html_hyper\\Model_html_hyper\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Model_html_hyper\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Model_html_hyper\\Model_html_hyper\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Model_html_hyper\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T05:38:18.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

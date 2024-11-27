@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\Myfirst\Myfirst\bin\Debug\Myfirst.exe.config
+C:\Users\manish\source\repos\Myfirst\Myfirst\bin\Debug\Myfirst.exe
+C:\Users\manish\source\repos\Myfirst\Myfirst\bin\Debug\Myfirst.pdb
+C:\Users\manish\source\repos\Myfirst\Myfirst\obj\Debug\Myfirst.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\Myfirst\Myfirst\obj\Debug\Myfirst.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\Myfirst\Myfirst\obj\Debug\Myfirst.exe
+C:\Users\manish\source\repos\Myfirst\Myfirst\obj\Debug\Myfirst.pdb

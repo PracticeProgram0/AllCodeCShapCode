@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\scripts\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|solutionrelative:sundaram_mvc\\scripts\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|solutionrelative:sundaram_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|c:\\users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|solutionrelative:sundaram_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C60178-F936-4E7C-B1EB-B17BBE566022}|sundaram_mvc\\sundaram_mvc.csproj|solutionrelative:sundaram_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Scripts\\JavaScript.js",
+              "RelativeDocumentMoniker": "sundaram_mvc\\Scripts\\JavaScript.js",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Scripts\\JavaScript.js",
+              "RelativeToolTip": "sundaram_mvc\\Scripts\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T05:20:41.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "sundaram_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "sundaram_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T05:11:07.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "sundaram_mvc\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Models\\Student.cs",
+              "RelativeToolTip": "sundaram_mvc\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:05:05.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sundaram_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram_mvc\\sundaram_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sundaram_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T05:04:37.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

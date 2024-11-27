@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\Ado.netConnetion\Ado.netConnetion\bin\Debug\Ado.netConnetion.exe.config
+C:\Users\manish\source\repos\Ado.netConnetion\Ado.netConnetion\bin\Debug\Ado.netConnetion.exe
+C:\Users\manish\source\repos\Ado.netConnetion\Ado.netConnetion\bin\Debug\Ado.netConnetion.pdb
+C:\Users\manish\source\repos\Ado.netConnetion\Ado.netConnetion\obj\Debug\Ado.netConnetion.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\Ado.netConnetion\Ado.netConnetion\obj\Debug\Ado.netConnetion.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\Ado.netConnetion\Ado.netConnetion\obj\Debug\Ado.netConnetion.exe
+C:\Users\manish\source\repos\Ado.netConnetion\Ado.netConnetion\obj\Debug\Ado.netConnetion.pdb

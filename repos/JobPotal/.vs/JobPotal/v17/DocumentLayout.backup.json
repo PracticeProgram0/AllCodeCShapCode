@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\JobPotal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|d:\\repos\\jobpotal\\jobpotal\\controllers\\userpenalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\controllers\\userpenalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|D:\\repos\\JobPotal\\jobpotal\\views\\userpenal\\findjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\views\\userpenal\\findjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|d:\\repos\\jobpotal\\jobpotal\\views\\adminpenal\\viewalljob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\views\\adminpenal\\viewalljob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|D:\\repos\\JobPotal\\jobpotal\\views\\adminpenal\\postjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\views\\adminpenal\\postjobs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|D:\\repos\\JobPotal\\jobpotal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|D:\\repos\\JobPotal\\jobpotal\\controllers\\adminpenalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\controllers\\adminpenalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|D:\\repos\\JobPotal\\jobpotal\\views\\adminpenal\\adminprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\views\\adminpenal\\adminprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|D:\\repos\\JobPotal\\jobpotal\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD515F0A-978E-4E2E-9924-2B5C6165B79A}|JobPotal\\JobPotal.csproj|solutionrelative:jobpotal\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewAllJob.cshtml",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Views\\AdminPenal\\ViewAllJob.cshtml",
+              "RelativeDocumentMoniker": "JobPotal\\Views\\AdminPenal\\ViewAllJob.cshtml",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Views\\AdminPenal\\ViewAllJob.cshtml",
+              "RelativeToolTip": "JobPotal\\Views\\AdminPenal\\ViewAllJob.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T04:39:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminProfile.cshtml",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Views\\AdminPenal\\AdminProfile.cshtml",
+              "RelativeDocumentMoniker": "JobPotal\\Views\\AdminPenal\\AdminProfile.cshtml",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Views\\AdminPenal\\AdminProfile.cshtml",
+              "RelativeToolTip": "JobPotal\\Views\\AdminPenal\\AdminProfile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:19:56.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Postjobs.cshtml",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Views\\AdminPenal\\Postjobs.cshtml",
+              "RelativeDocumentMoniker": "JobPotal\\Views\\AdminPenal\\Postjobs.cshtml",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Views\\AdminPenal\\Postjobs.cshtml",
+              "RelativeToolTip": "JobPotal\\Views\\AdminPenal\\Postjobs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T06:41:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JobPotal\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JobPotal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:51:44.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPenalController.cs",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Controllers\\AdminPenalController.cs",
+              "RelativeDocumentMoniker": "JobPotal\\Controllers\\AdminPenalController.cs",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Controllers\\AdminPenalController.cs",
+              "RelativeToolTip": "JobPotal\\Controllers\\AdminPenalController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:52:38.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindJobs.cshtml",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Views\\UserPenal\\FindJobs.cshtml",
+              "RelativeDocumentMoniker": "JobPotal\\Views\\UserPenal\\FindJobs.cshtml",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Views\\UserPenal\\FindJobs.cshtml",
+              "RelativeToolTip": "JobPotal\\Views\\UserPenal\\FindJobs.cshtml",
+              "ViewState": "AgIAAPMAAAAAAAAAAAASwAUBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T05:36:57.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPenalController.cs",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Controllers\\UserPenalController.cs",
+              "RelativeDocumentMoniker": "JobPotal\\Controllers\\UserPenalController.cs",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Controllers\\UserPenalController.cs",
+              "RelativeToolTip": "JobPotal\\Controllers\\UserPenalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:53:52.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\repos\\JobPotal\\JobPotal\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "JobPotal\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\repos\\JobPotal\\JobPotal\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "JobPotal\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAANAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:26:48.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

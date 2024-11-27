@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\WebApplication15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3F5A3B-D8B2-4BDC-92FA-8B50E904DA19}|WebApplication15\\WebApplication15.csproj|c:\\users\\manish\\source\\repos\\webapplication15\\webapplication15\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B3F5A3B-D8B2-4BDC-92FA-8B50E904DA19}|WebApplication15\\WebApplication15.csproj|solutionrelative:webapplication15\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WebApplication15\\WebApplication15\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication15\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WebApplication15\\WebApplication15\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication15\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-02T14:25:10.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

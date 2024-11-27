@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Router\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|C:\\Users\\manish\\source\\repos\\Router\\router\\controllers\\home2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|solutionrelative:router\\controllers\\home2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|c:\\users\\manish\\source\\repos\\router\\router\\views\\home2\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|solutionrelative:router\\views\\home2\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|c:\\users\\manish\\source\\repos\\router\\router\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|solutionrelative:router\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|c:\\users\\manish\\source\\repos\\router\\router\\views\\home2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D281E2-5303-4425-B221-10782E29677D}|Router\\Router.csproj|solutionrelative:router\\views\\home2\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Router\\Router\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Router\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Router\\Router\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Router\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:48:02.471Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Router\\Router\\Controllers\\Home2Controller.cs",
+              "RelativeDocumentMoniker": "Router\\Controllers\\Home2Controller.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Router\\Router\\Controllers\\Home2Controller.cs*",
+              "RelativeToolTip": "Router\\Controllers\\Home2Controller.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:37:32.662Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Router\\Router\\Views\\Home2\\About.cshtml",
+              "RelativeDocumentMoniker": "Router\\Views\\Home2\\About.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Router\\Router\\Views\\Home2\\About.cshtml",
+              "RelativeToolTip": "Router\\Views\\Home2\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T05:15:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Router\\Router\\Views\\Home2\\Index.cshtml",
+              "RelativeDocumentMoniker": "Router\\Views\\Home2\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Router\\Router\\Views\\Home2\\Index.cshtml",
+              "RelativeToolTip": "Router\\Views\\Home2\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T05:15:22.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

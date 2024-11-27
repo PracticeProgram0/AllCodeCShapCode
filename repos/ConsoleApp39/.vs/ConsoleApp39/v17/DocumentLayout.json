@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|C:\\Users\\manish\\source\\repos\\ConsoleApp39\\consoleapp39\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|solutionrelative:consoleapp39\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|C:\\Users\\manish\\source\\repos\\ConsoleApp39\\consoleapp39\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|solutionrelative:consoleapp39\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|C:\\Users\\manish\\source\\repos\\ConsoleApp39\\consoleapp39\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|solutionrelative:consoleapp39\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|c:\\users\\manish\\source\\repos\\consoleapp39\\consoleapp39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|solutionrelative:consoleapp39\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp39||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D830CCF8-91E7-4223-BF13-A0ED012264FB}|ConsoleApp39\\ConsoleApp39.csproj|c:\\users\\manish\\source\\repos\\consoleapp39\\consoleapp39\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Class2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp39\\Class2.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Class2.cs",
+              "RelativeToolTip": "ConsoleApp39\\Class2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:03:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp39",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\ConsoleApp39.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp39\\ConsoleApp39.csproj",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\ConsoleApp39.csproj",
+              "RelativeToolTip": "ConsoleApp39\\ConsoleApp39.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-26T06:59:20.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp39\\Class1.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Class1.cs*",
+              "RelativeToolTip": "ConsoleApp39\\Class1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:50:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Cal.cs",
+              "RelativeDocumentMoniker": "ConsoleApp39\\Cal.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Cal.cs*",
+              "RelativeToolTip": "ConsoleApp39\\Cal.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T06:09:48.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp39\\Program.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp39\\ConsoleApp39\\Program.cs",
+              "RelativeToolTip": "ConsoleApp39\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:57:54.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\table\table\bin\Debug\table.exe.config
+C:\Users\manish\source\repos\table\table\bin\Debug\table.exe
+C:\Users\manish\source\repos\table\table\bin\Debug\table.pdb
+C:\Users\manish\source\repos\table\table\obj\Debug\table.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\table\table\obj\Debug\table.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\table\table\obj\Debug\table.exe
+C:\Users\manish\source\repos\table\table\obj\Debug\table.pdb

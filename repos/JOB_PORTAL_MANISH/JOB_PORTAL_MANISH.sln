@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOB_PORTAL_MANISH", "JOB_PORTAL_MANISH\JOB_PORTAL_MANISH.csproj", "{5EDBA717-CAB7-45CC-93DD-7BE2358B060B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDBA717-CAB7-45CC-93DD-7BE2358B060B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDBA717-CAB7-45CC-93DD-7BE2358B060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDBA717-CAB7-45CC-93DD-7BE2358B060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDBA717-CAB7-45CC-93DD-7BE2358B060B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910244C5-9ECB-449A-9FDF-F40AB113824C}
+	EndGlobalSection
+EndGlobal

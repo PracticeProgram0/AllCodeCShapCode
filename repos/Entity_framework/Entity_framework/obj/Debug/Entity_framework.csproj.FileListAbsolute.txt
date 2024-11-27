@@ -1,0 +1,2 @@
+C:\Users\manish\source\repos\Entity_framework\Entity_framework\obj\Debug\Entity_framework.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\Entity_framework\Entity_framework\obj\Debug\Entity_framework.csproj.CoreCompileInputs.cache

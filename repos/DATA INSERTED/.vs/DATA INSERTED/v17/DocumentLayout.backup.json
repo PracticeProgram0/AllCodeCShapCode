@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|c:\\users\\manish\\source\\repos\\data inserted\\data inserted\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|solutionrelative:data inserted\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|C:\\Users\\manish\\source\\repos\\DATA INSERTED\\data inserted\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|solutionrelative:data inserted\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|C:\\Users\\manish\\source\\repos\\DATA INSERTED\\data inserted\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|solutionrelative:data inserted\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|C:\\Users\\manish\\source\\repos\\DATA INSERTED\\data inserted\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D074E8D-8376-4047-9371-99F798B44450}|DATA INSERTED\\DATA INSERTED.csproj|solutionrelative:data inserted\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "DATA INSERTED\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm2.aspx.cs*",
+              "RelativeToolTip": "DATA INSERTED\\WebForm2.aspx.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:23:37.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "DATA INSERTED\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm2.aspx",
+              "RelativeToolTip": "DATA INSERTED\\WebForm2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-17T03:14:24.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "DATA INSERTED\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm1.aspx.cs",
+              "RelativeToolTip": "DATA INSERTED\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:27:21.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "DATA INSERTED\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\DATA INSERTED\\DATA INSERTED\\WebForm1.aspx*",
+              "RelativeToolTip": "DATA INSERTED\\WebForm1.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-16T12:54:59.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

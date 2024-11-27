@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|c:\\users\\manish\\source\\repos\\layout_in_mvc\\layout_in_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|solutionrelative:layout_in_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|c:\\users\\manish\\source\\repos\\layout_in_mvc\\layout_in_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|solutionrelative:layout_in_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|c:\\users\\manish\\source\\repos\\layout_in_mvc\\layout_in_mvc\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|solutionrelative:layout_in_mvc\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|c:\\users\\manish\\source\\repos\\layout_in_mvc\\layout_in_mvc\\views\\shared\\layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|solutionrelative:layout_in_mvc\\views\\shared\\layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|c:\\users\\manish\\source\\repos\\layout_in_mvc\\layout_in_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F73BB6E-D4A0-4702-8008-EC51E0237B9F}|Layout_in_mvc\\Layout_in_mvc.csproj|solutionrelative:layout_in_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\shared\\Layout2.cshtml",
+              "RelativeDocumentMoniker": "Layout_in_mvc\\Views\\shared\\Layout2.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\shared\\Layout2.cshtml",
+              "RelativeToolTip": "Layout_in_mvc\\Views\\shared\\Layout2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T05:22:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Layout_in_mvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Layout_in_mvc\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:59:26.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Layout_in_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Layout_in_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:35:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "Layout_in_mvc\\Views\\shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Views\\shared\\Layout.cshtml",
+              "RelativeToolTip": "Layout_in_mvc\\Views\\shared\\Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T04:19:36.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Layout_in_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Layout_in_mvc\\Layout_in_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Layout_in_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:18:43.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

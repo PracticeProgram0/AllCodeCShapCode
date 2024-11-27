@@ -1,0 +1,2 @@
+C:\Users\manish\source\repos\api22\api22\obj\Debug\api22.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\api22\api22\obj\Debug\api22.csproj.CoreCompileInputs.cache

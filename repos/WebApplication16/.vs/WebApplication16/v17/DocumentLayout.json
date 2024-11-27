@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\WebApplication16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10DCE762-3225-4055-8D09-AAD71DAA7E31}|WebApplication16\\WebApplication16.csproj|c:\\users\\manish\\source\\repos\\webapplication16\\webapplication16\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10DCE762-3225-4055-8D09-AAD71DAA7E31}|WebApplication16\\WebApplication16.csproj|solutionrelative:webapplication16\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DCE762-3225-4055-8D09-AAD71DAA7E31}|WebApplication16\\WebApplication16.csproj|c:\\users\\manish\\source\\repos\\webapplication16\\webapplication16\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DCE762-3225-4055-8D09-AAD71DAA7E31}|WebApplication16\\WebApplication16.csproj|solutionrelative:webapplication16\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WebApplication16\\WebApplication16\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication16\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WebApplication16\\WebApplication16\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "WebApplication16\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:49:27.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WebApplication16\\WebApplication16\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication16\\Web.config",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WebApplication16\\WebApplication16\\Web.config",
+              "RelativeToolTip": "WebApplication16\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-03T05:49:15.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

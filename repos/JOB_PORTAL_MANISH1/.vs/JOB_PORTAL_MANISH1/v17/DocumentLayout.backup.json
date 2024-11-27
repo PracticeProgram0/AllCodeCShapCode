@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{460E4628-8A05-46D7-9D0C-4D42C058CE23}|JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1.csproj|c:\\users\\manish\\source\\repos\\job_portal_manish1\\job_portal_manish1\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460E4628-8A05-46D7-9D0C-4D42C058CE23}|JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1.csproj|solutionrelative:job_portal_manish1\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460E4628-8A05-46D7-9D0C-4D42C058CE23}|JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1.csproj|C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\job_portal_manish1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460E4628-8A05-46D7-9D0C-4D42C058CE23}|JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1.csproj|solutionrelative:job_portal_manish1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460E4628-8A05-46D7-9D0C-4D42C058CE23}|JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1.csproj|C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\job_portal_manish1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460E4628-8A05-46D7-9D0C-4D42C058CE23}|JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1.csproj|solutionrelative:job_portal_manish1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "JOB_PORTAL_MANISH1\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "JOB_PORTAL_MANISH1\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T08:24:08.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_MANISH1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JOB_PORTAL_MANISH1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:11:39.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "JOB_PORTAL_MANISH1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JOB_PORTAL_MANISH1\\JOB_PORTAL_MANISH1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "JOB_PORTAL_MANISH1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:16:17.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

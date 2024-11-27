@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92475839-089E-4696-8A4E-00421192F9FD}|MVC_Ragistration\\MVC_Ragistration.csproj|c:\\users\\manish\\source\\repos\\mvc_ragistration\\mvc_ragistration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92475839-089E-4696-8A4E-00421192F9FD}|MVC_Ragistration\\MVC_Ragistration.csproj|solutionrelative:mvc_ragistration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92475839-089E-4696-8A4E-00421192F9FD}|MVC_Ragistration\\MVC_Ragistration.csproj|C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\mvc_ragistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92475839-089E-4696-8A4E-00421192F9FD}|MVC_Ragistration\\MVC_Ragistration.csproj|solutionrelative:mvc_ragistration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92475839-089E-4696-8A4E-00421192F9FD}|MVC_Ragistration\\MVC_Ragistration.csproj|C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\mvc_ragistration\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92475839-089E-4696-8A4E-00421192F9FD}|MVC_Ragistration\\MVC_Ragistration.csproj|solutionrelative:mvc_ragistration\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\MVC_Ragistration\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVC_Ragistration\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\MVC_Ragistration\\Models\\Employee.cs",
+              "RelativeToolTip": "MVC_Ragistration\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:46:50.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\MVC_Ragistration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Ragistration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\MVC_Ragistration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Ragistration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:45:43.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\MVC_Ragistration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Ragistration\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\MVC_Ragistration\\MVC_Ragistration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Ragistration\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:45:15.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

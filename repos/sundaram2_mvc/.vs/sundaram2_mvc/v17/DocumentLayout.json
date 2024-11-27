@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|solutionrelative:sundaram2_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|c:\\users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|solutionrelative:sundaram2_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\scripts\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|solutionrelative:sundaram2_mvc\\scripts\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A1CA7-F761-4165-8507-F194B217A75E}|sundaram2_mvc\\sundaram2_mvc.csproj|solutionrelative:sundaram2_mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JavaScript1.js",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Scripts\\JavaScript1.js",
+              "RelativeDocumentMoniker": "sundaram2_mvc\\Scripts\\JavaScript1.js",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Scripts\\JavaScript1.js",
+              "RelativeToolTip": "sundaram2_mvc\\Scripts\\JavaScript1.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T07:14:08.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "sundaram2_mvc\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Models\\Student.cs",
+              "RelativeToolTip": "sundaram2_mvc\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:57:19.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "sundaram2_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "sundaram2_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T06:52:58.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "sundaram2_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\sundaram2_mvc\\sundaram2_mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "sundaram2_mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:50:55.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

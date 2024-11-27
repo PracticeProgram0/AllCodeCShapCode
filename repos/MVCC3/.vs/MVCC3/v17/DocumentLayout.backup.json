@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\MVCC3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3038E6C3-E443-414C-9AD9-BC29FC918B0F}|MVCC3\\MVCC3.csproj|c:\\users\\manish\\source\\repos\\mvcc3\\mvcc3\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3038E6C3-E443-414C-9AD9-BC29FC918B0F}|MVCC3\\MVCC3.csproj|solutionrelative:mvcc3\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3038E6C3-E443-414C-9AD9-BC29FC918B0F}|MVCC3\\MVCC3.csproj|C:\\Users\\manish\\source\\repos\\MVCC3\\mvcc3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3038E6C3-E443-414C-9AD9-BC29FC918B0F}|MVCC3\\MVCC3.csproj|solutionrelative:mvcc3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3038E6C3-E443-414C-9AD9-BC29FC918B0F}|MVCC3\\MVCC3.csproj|c:\\users\\manish\\source\\repos\\mvcc3\\mvcc3\\controllers\\hometcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3038E6C3-E443-414C-9AD9-BC29FC918B0F}|MVCC3\\MVCC3.csproj|solutionrelative:mvcc3\\controllers\\hometcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\MVCC3\\MVCC3\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MVCC3\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\MVCC3\\MVCC3\\Controllers\\DefaultController.cs*",
+              "RelativeToolTip": "MVCC3\\Controllers\\DefaultController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:00:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HometController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\MVCC3\\MVCC3\\Controllers\\HometController.cs",
+              "RelativeDocumentMoniker": "MVCC3\\Controllers\\HometController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\MVCC3\\MVCC3\\Controllers\\HometController.cs",
+              "RelativeToolTip": "MVCC3\\Controllers\\HometController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:20:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\MVCC3\\MVCC3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCC3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\MVCC3\\MVCC3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCC3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:17:08.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

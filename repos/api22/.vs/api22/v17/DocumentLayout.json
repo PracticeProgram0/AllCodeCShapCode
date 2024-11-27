@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\api22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6162F-4DA5-4F61-B075-C8D94F92C086}|api22\\api22.csproj|c:\\users\\manish\\source\\repos\\api22\\api22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6162F-4DA5-4F61-B075-C8D94F92C086}|api22\\api22.csproj|solutionrelative:api22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6162F-4DA5-4F61-B075-C8D94F92C086}|api22\\api22.csproj|c:\\users\\manish\\source\\repos\\api22\\api22\\controllers\\dataaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E6162F-4DA5-4F61-B075-C8D94F92C086}|api22\\api22.csproj|solutionrelative:api22\\controllers\\dataaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E6162F-4DA5-4F61-B075-C8D94F92C086}|api22\\api22.csproj|c:\\users\\manish\\source\\repos\\api22\\api22\\index.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{31E6162F-4DA5-4F61-B075-C8D94F92C086}|api22\\api22.csproj|solutionrelative:api22\\index.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\api22\\api22\\Index.edmx",
+              "RelativeDocumentMoniker": "api22\\Index.edmx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\api22\\api22\\Index.edmx [Diagram1]",
+              "RelativeToolTip": "api22\\Index.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-04T15:44:49.59Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\api22\\api22\\Controllers\\DataAccessController.cs",
+              "RelativeDocumentMoniker": "api22\\Controllers\\DataAccessController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\api22\\api22\\Controllers\\DataAccessController.cs",
+              "RelativeToolTip": "api22\\Controllers\\DataAccessController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T15:22:35.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\api22\\api22\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "api22\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\api22\\api22\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "api22\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:08:35.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

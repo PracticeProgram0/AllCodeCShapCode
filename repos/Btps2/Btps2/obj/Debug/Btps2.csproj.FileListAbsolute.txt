@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\Btps2\Btps2\bin\Debug\Btps2.exe.config
+C:\Users\manish\source\repos\Btps2\Btps2\bin\Debug\Btps2.exe
+C:\Users\manish\source\repos\Btps2\Btps2\bin\Debug\Btps2.pdb
+C:\Users\manish\source\repos\Btps2\Btps2\obj\Debug\Btps2.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\Btps2\Btps2\obj\Debug\Btps2.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\Btps2\Btps2\obj\Debug\Btps2.exe
+C:\Users\manish\source\repos\Btps2\Btps2\obj\Debug\Btps2.pdb

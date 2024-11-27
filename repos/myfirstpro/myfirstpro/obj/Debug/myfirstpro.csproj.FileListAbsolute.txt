@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\myfirstpro\myfirstpro\bin\Debug\myfirstpro.exe.config
+C:\Users\manish\source\repos\myfirstpro\myfirstpro\bin\Debug\myfirstpro.exe
+C:\Users\manish\source\repos\myfirstpro\myfirstpro\bin\Debug\myfirstpro.pdb
+C:\Users\manish\source\repos\myfirstpro\myfirstpro\obj\Debug\myfirstpro.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\myfirstpro\myfirstpro\obj\Debug\myfirstpro.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\myfirstpro\myfirstpro\obj\Debug\myfirstpro.exe
+C:\Users\manish\source\repos\myfirstpro\myfirstpro\obj\Debug\myfirstpro.pdb

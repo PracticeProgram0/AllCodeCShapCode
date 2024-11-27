@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    @using (Html.BeginForm("Index", "Home"))
+    {
+        <label>Name </label> @Html.TextBox("Name")<br />
+        <label>Age </label> @Html.TextBox("Age")<br />
+        <label>Phone </label> @Html.TextBox("Phone")<br />
+        <input type="submit" value="InsertData" />
+
+        @Html.ActionLink("Go to List", "SelectAllData")
+
+    }
+</div>
+<script src="~/Scripts/bootstrap.js"></script>

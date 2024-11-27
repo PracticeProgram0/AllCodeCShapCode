@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Changepws\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|c:\\users\\manish\\source\\repos\\changepws\\changepws\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|c:\\users\\manish\\source\\repos\\changepws\\changepws\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\user_dash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\user_dash.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\calander.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\calander.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\ragistation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\ragistation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\ragistation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\ragistation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|c:\\users\\manish\\source\\repos\\changepws\\changepws\\changepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\changepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\changepwd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\changepwd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|C:\\Users\\manish\\source\\repos\\Changepws\\changepws\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0244205D-649A-4265-A1B9-F54A9DC92A42}|Changepws\\Changepws.csproj|solutionrelative:changepws\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ragistation.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Ragistation.aspx",
+              "RelativeDocumentMoniker": "Changepws\\Ragistation.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Ragistation.aspx",
+              "RelativeToolTip": "Changepws\\Ragistation.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T05:52:06.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "Changepws\\Signup.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Signup.aspx.cs*",
+              "RelativeToolTip": "Changepws\\Signup.aspx.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:29:26.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Signup.aspx",
+              "RelativeDocumentMoniker": "Changepws\\Signup.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Signup.aspx",
+              "RelativeToolTip": "Changepws\\Signup.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T08:25:46.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calander.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Calander.aspx",
+              "RelativeDocumentMoniker": "Changepws\\Calander.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Calander.aspx",
+              "RelativeToolTip": "Changepws\\Calander.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T07:52:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "user_dash.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\user_dash.aspx",
+              "RelativeDocumentMoniker": "Changepws\\user_dash.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\user_dash.aspx",
+              "RelativeToolTip": "Changepws\\user_dash.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T06:07:59.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "changepwd.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\changepwd.aspx.cs",
+              "RelativeDocumentMoniker": "Changepws\\changepwd.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\changepwd.aspx.cs",
+              "RelativeToolTip": "Changepws\\changepwd.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:06:34.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "changepwd.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\changepwd.aspx",
+              "RelativeDocumentMoniker": "Changepws\\changepwd.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\changepwd.aspx",
+              "RelativeToolTip": "Changepws\\changepwd.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T06:03:21.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Changepws\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Login.aspx.cs",
+              "RelativeToolTip": "Changepws\\Login.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:01:34.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Login.aspx",
+              "RelativeDocumentMoniker": "Changepws\\Login.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Login.aspx",
+              "RelativeToolTip": "Changepws\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T06:00:23.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "submit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\submit.aspx.cs",
+              "RelativeDocumentMoniker": "Changepws\\submit.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\submit.aspx.cs",
+              "RelativeToolTip": "Changepws\\submit.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:56:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "submit.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\submit.aspx",
+              "RelativeDocumentMoniker": "Changepws\\submit.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\submit.aspx",
+              "RelativeToolTip": "Changepws\\submit.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T05:54:58.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ragistation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Ragistation.aspx.cs",
+              "RelativeDocumentMoniker": "Changepws\\Ragistation.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Changepws\\Changepws\\Ragistation.aspx.cs",
+              "RelativeToolTip": "Changepws\\Ragistation.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:53:19.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

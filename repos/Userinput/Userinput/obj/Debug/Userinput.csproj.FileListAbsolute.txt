@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\Userinput\Userinput\bin\Debug\Userinput.exe.config
+C:\Users\manish\source\repos\Userinput\Userinput\bin\Debug\Userinput.exe
+C:\Users\manish\source\repos\Userinput\Userinput\bin\Debug\Userinput.pdb
+C:\Users\manish\source\repos\Userinput\Userinput\obj\Debug\Userinput.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\Userinput\Userinput\obj\Debug\Userinput.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\Userinput\Userinput\obj\Debug\Userinput.exe
+C:\Users\manish\source\repos\Userinput\Userinput\obj\Debug\Userinput.pdb

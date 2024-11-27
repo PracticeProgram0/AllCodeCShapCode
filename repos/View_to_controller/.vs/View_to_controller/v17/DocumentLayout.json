@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\View_to_controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|C:\\Users\\manish\\source\\repos\\View_to_controller\\view_to_controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|solutionrelative:view_to_controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|C:\\Users\\manish\\source\\repos\\View_to_controller\\view_to_controller\\views\\home\\loginbymodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|solutionrelative:view_to_controller\\views\\home\\loginbymodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|C:\\Users\\manish\\source\\repos\\View_to_controller\\view_to_controller\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|solutionrelative:view_to_controller\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|C:\\Users\\manish\\source\\repos\\View_to_controller\\view_to_controller\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|solutionrelative:view_to_controller\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|c:\\users\\manish\\source\\repos\\view_to_controller\\view_to_controller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63275FC2-42D7-4C60-B4E2-579AD033DEBA}|View_to_controller\\View_to_controller.csproj|solutionrelative:view_to_controller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginByModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Views\\Home\\LoginByModel.cshtml",
+              "RelativeDocumentMoniker": "View_to_controller\\Views\\Home\\LoginByModel.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Views\\Home\\LoginByModel.cshtml",
+              "RelativeToolTip": "View_to_controller\\Views\\Home\\LoginByModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T05:53:35.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "View_to_controller\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Models\\Student.cs",
+              "RelativeToolTip": "View_to_controller\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:40:14.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "View_to_controller\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "View_to_controller\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T04:19:48.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "View_to_controller\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "View_to_controller\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T04:19:13.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "View_to_controller\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\View_to_controller\\View_to_controller\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "View_to_controller\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:18:11.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

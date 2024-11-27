@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index3</title>
+</head>
+<body>
+    <div>
+        <h1>index5 page</h1>
+        @{
+            int a = 100;
+            int b = 200;
+            int c = a + b;
+        }
+        <h1>
+            int a = 100;<br />
+            int b = 200;<br />
+            int c= @c
+        </h1>
+        <h1> only Date@DateTime.utcNow </h1>
+    </div>
+</body>
+</html>

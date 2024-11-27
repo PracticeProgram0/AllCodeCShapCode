@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Myfirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A81B548-8136-4164-952C-ADCD0A89D83B}|Myfirst\\Myfirst.csproj|c:\\users\\manish\\source\\repos\\myfirst\\myfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A81B548-8136-4164-952C-ADCD0A89D83B}|Myfirst\\Myfirst.csproj|solutionrelative:myfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Myfirst\\Myfirst\\Program.cs",
+              "RelativeDocumentMoniker": "Myfirst\\Program.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Myfirst\\Myfirst\\Program.cs",
+              "RelativeToolTip": "Myfirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:00:33.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

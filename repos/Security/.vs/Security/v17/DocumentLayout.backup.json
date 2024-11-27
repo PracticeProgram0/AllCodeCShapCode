@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Security\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|C:\\Users\\manish\\source\\repos\\Security\\security\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|solutionrelative:security\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|C:\\Users\\manish\\source\\repos\\Security\\security\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|solutionrelative:security\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|C:\\Users\\manish\\source\\repos\\Security\\security\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|solutionrelative:security\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|c:\\users\\manish\\source\\repos\\security\\security\\admin\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|solutionrelative:security\\admin\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|C:\\Users\\manish\\source\\repos\\Security\\security\\admin\\admin_about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|solutionrelative:security\\admin\\admin_about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|C:\\Users\\manish\\source\\repos\\Security\\security\\admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{576AA2C6-7C62-44CF-9AD9-908506BFDE91}|Security\\Security.csproj|solutionrelative:security\\admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Admin\\Web.config",
+              "RelativeDocumentMoniker": "Security\\Admin\\Web.config",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Admin\\Web.config",
+              "RelativeToolTip": "Security\\Admin\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-04T09:03:00.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin_about.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Admin\\admin_about.aspx",
+              "RelativeDocumentMoniker": "Security\\Admin\\admin_about.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Admin\\admin_about.aspx",
+              "RelativeToolTip": "Security\\Admin\\admin_about.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-04T09:02:17.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin_home.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Admin\\admin_home.aspx",
+              "RelativeDocumentMoniker": "Security\\Admin\\admin_home.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Admin\\admin_home.aspx",
+              "RelativeToolTip": "Security\\Admin\\admin_home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-04T09:01:21.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Security\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Login.aspx.cs",
+              "RelativeToolTip": "Security\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T08:56:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Web.config",
+              "RelativeDocumentMoniker": "Security\\Web.config",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Web.config",
+              "RelativeToolTip": "Security\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-04T08:41:13.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Login.aspx",
+              "RelativeDocumentMoniker": "Security\\Login.aspx",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Security\\Security\\Login.aspx",
+              "RelativeToolTip": "Security\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-04T08:43:27.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

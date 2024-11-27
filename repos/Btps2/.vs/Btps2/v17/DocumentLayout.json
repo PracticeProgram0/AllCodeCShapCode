@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Btps2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697A0E61-B67B-4C0A-AE22-5DA711781930}|Btps2\\Btps2.csproj|c:\\users\\manish\\source\\repos\\btps2\\btps2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697A0E61-B67B-4C0A-AE22-5DA711781930}|Btps2\\Btps2.csproj|solutionrelative:btps2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Btps2\\Btps2\\Program.cs",
+              "RelativeDocumentMoniker": "Btps2\\Program.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Btps2\\Btps2\\Program.cs",
+              "RelativeToolTip": "Btps2\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:04:05.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

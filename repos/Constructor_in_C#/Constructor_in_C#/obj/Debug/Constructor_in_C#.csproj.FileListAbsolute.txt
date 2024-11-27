@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\Constructor_in_C#\Constructor_in_C#\bin\Debug\Constructor_in_C#.exe.config
+C:\Users\manish\source\repos\Constructor_in_C#\Constructor_in_C#\bin\Debug\Constructor_in_C#.exe
+C:\Users\manish\source\repos\Constructor_in_C#\Constructor_in_C#\bin\Debug\Constructor_in_C#.pdb
+C:\Users\manish\source\repos\Constructor_in_C#\Constructor_in_C#\obj\Debug\Constructor_in_C#.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\Constructor_in_C#\Constructor_in_C#\obj\Debug\Constructor_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\Constructor_in_C#\Constructor_in_C#\obj\Debug\Constructor_in_C#.exe
+C:\Users\manish\source\repos\Constructor_in_C#\Constructor_in_C#\obj\Debug\Constructor_in_C#.pdb

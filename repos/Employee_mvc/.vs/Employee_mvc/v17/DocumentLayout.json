@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|c:\\users\\manish\\source\\repos\\employee_mvc\\employee_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|solutionrelative:employee_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|c:\\users\\manish\\source\\repos\\employee_mvc\\employee_mvc\\views\\home\\registrationbymodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|solutionrelative:employee_mvc\\views\\home\\registrationbymodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|c:\\users\\manish\\source\\repos\\employee_mvc\\employee_mvc\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|solutionrelative:employee_mvc\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|c:\\users\\manish\\source\\repos\\employee_mvc\\employee_mvc\\views\\home\\loginbymodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|solutionrelative:employee_mvc\\views\\home\\loginbymodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|c:\\users\\manish\\source\\repos\\employee_mvc\\employee_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82F261E9-E7CB-4B78-B943-42BB30223357}|Employee_mvc\\Employee_mvc.csproj|solutionrelative:employee_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationByModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\RegistrationByModel.cshtml",
+              "RelativeDocumentMoniker": "Employee_mvc\\Views\\Home\\RegistrationByModel.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\RegistrationByModel.cshtml",
+              "RelativeToolTip": "Employee_mvc\\Views\\Home\\RegistrationByModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:23:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginByModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\LoginByModel.cshtml",
+              "RelativeDocumentMoniker": "Employee_mvc\\Views\\Home\\LoginByModel.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\LoginByModel.cshtml",
+              "RelativeToolTip": "Employee_mvc\\Views\\Home\\LoginByModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:14:06.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "Employee_mvc\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "Employee_mvc\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:11:16.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Employee_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Employee_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwG8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:10:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Employee_mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Employee_mvc\\Employee_mvc\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Employee_mvc\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:15:09.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\manish\source\repos\btps1\btps1\bin\Debug\btps1.exe.config
+C:\Users\manish\source\repos\btps1\btps1\bin\Debug\btps1.exe
+C:\Users\manish\source\repos\btps1\btps1\bin\Debug\btps1.pdb
+C:\Users\manish\source\repos\btps1\btps1\obj\Debug\btps1.csproj.AssemblyReference.cache
+C:\Users\manish\source\repos\btps1\btps1\obj\Debug\btps1.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\btps1\btps1\obj\Debug\btps1.exe
+C:\Users\manish\source\repos\btps1\btps1\obj\Debug\btps1.pdb

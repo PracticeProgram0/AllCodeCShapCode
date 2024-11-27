@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\jquery_mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|solutionrelative:jquery_mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\jquery_mvc\\views\\home\\jsonclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|solutionrelative:jquery_mvc\\views\\home\\jsonclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|c:\\users\\manish\\source\\repos\\jquery_mvc\\jquery_mvc\\scripts\\myajaxjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|solutionrelative:jquery_mvc\\scripts\\myajaxjs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\jquery_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|solutionrelative:jquery_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\jquery_mvc\\views\\home\\jclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|solutionrelative:jquery_mvc\\views\\home\\jclass.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\jquery_mvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F62846A-0541-4A0B-9EF8-4AC19B9EF75A}|JQUERY_MVC\\JQUERY_MVC.csproj|solutionrelative:jquery_mvc\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "JQUERY_MVC\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Models\\Login.cs",
+              "RelativeToolTip": "JQUERY_MVC\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:40:21.994Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JCLASS.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Views\\Home\\JCLASS.cshtml",
+              "RelativeDocumentMoniker": "JQUERY_MVC\\Views\\Home\\JCLASS.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Views\\Home\\JCLASS.cshtml",
+              "RelativeToolTip": "JQUERY_MVC\\Views\\Home\\JCLASS.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T08:41:05.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "JQUERY_MVC\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "JQUERY_MVC\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:37:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jsonclass.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Views\\Home\\Jsonclass.cshtml",
+              "RelativeDocumentMoniker": "JQUERY_MVC\\Views\\Home\\Jsonclass.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Views\\Home\\Jsonclass.cshtml",
+              "RelativeToolTip": "JQUERY_MVC\\Views\\Home\\Jsonclass.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T08:28:28.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyAjaxjs.js",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Scripts\\MyAjaxjs.js",
+              "RelativeDocumentMoniker": "JQUERY_MVC\\Scripts\\MyAjaxjs.js",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Scripts\\MyAjaxjs.js",
+              "RelativeToolTip": "JQUERY_MVC\\Scripts\\MyAjaxjs.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-17T04:12:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JQUERY_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\JQUERY_MVC\\JQUERY_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JQUERY_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:05:39.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

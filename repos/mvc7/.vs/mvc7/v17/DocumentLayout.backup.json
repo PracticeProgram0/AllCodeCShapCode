@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\mvc7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8744C67B-5E6C-4B73-A102-5A9A2C058633}|mvc7\\mvc7.csproj|c:\\users\\manish\\source\\repos\\mvc7\\mvc7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8744C67B-5E6C-4B73-A102-5A9A2C058633}|mvc7\\mvc7.csproj|solutionrelative:mvc7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8744C67B-5E6C-4B73-A102-5A9A2C058633}|mvc7\\mvc7.csproj|c:\\users\\manish\\source\\repos\\mvc7\\mvc7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8744C67B-5E6C-4B73-A102-5A9A2C058633}|mvc7\\mvc7.csproj|solutionrelative:mvc7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\mvc7\\mvc7\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\mvc7\\mvc7\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvc7\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T05:53:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\mvc7\\mvc7\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvc7\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\mvc7\\mvc7\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "mvc7\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:45:46.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

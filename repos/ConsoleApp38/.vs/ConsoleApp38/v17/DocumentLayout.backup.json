@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|C:\\Users\\manish\\source\\repos\\ConsoleApp38\\consoleapp38\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|c:\\users\\manish\\source\\repos\\consoleapp38\\consoleapp38\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp38||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|c:\\users\\manish\\source\\repos\\consoleapp38\\consoleapp38\\sleep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\sleep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|c:\\users\\manish\\source\\repos\\consoleapp38\\consoleapp38\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|C:\\Users\\manish\\source\\repos\\ConsoleApp38\\consoleapp38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|solutionrelative:consoleapp38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC656737-79BB-4673-A3A7-7F85A7230DA1}|ConsoleApp38\\ConsoleApp38.csproj|c:\\users\\manish\\source\\repos\\consoleapp38\\consoleapp38\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sleep.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Sleep.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\Sleep.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Sleep.cs*",
+              "RelativeToolTip": "ConsoleApp38\\Sleep.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:28:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "call.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\call.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\call.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\call.cs",
+              "RelativeToolTip": "ConsoleApp38\\call.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:41:37.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp38",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\ConsoleApp38.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp38\\ConsoleApp38.csproj",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\ConsoleApp38.csproj",
+              "RelativeToolTip": "ConsoleApp38\\ConsoleApp38.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T08:42:20.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\Class1.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Class1.cs",
+              "RelativeToolTip": "ConsoleApp38\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:09:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Test.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\Test.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Test.cs",
+              "RelativeToolTip": "ConsoleApp38\\Test.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:14:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp38\\Program.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp38\\ConsoleApp38\\Program.cs",
+              "RelativeToolTip": "ConsoleApp38\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:03:29.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

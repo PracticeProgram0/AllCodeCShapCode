@@ -1,0 +1,31 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>this is index page</h1>
+    
+    @using (Html.BeginForm("LoginByFormCollection", "Home"))
+    {
+        <label>Enter Your Name:</label>
+        <input type="text" id="tb1" name="UserName" />
+        <br />
+        <br />
+
+        <label>Enter Your Password:</label>
+        <input type="text" id="tb2" name="UserPassword" />
+        <br />
+        <input type="SUBMIT" value="login" />
+    }
+        </div>
+</body>
+</html>

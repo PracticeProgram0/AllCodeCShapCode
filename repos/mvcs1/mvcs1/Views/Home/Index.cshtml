@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h1>Hello how are you</h1>
+    <div><h1>username is:@ViewBag</h1> 
+    @if(ViewBag.user=="ok")
+            {
+                <h1>password is:@ViewData["Password"]</h1>
+            }
+    </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿@model mvc22.Models.Student
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>About</title>
+</head>
+<body>
+    <div> 
+        <h1>this is about page</h1>
+
+    </div>
+    <div>
+       @Html.TextBoxFor(x=>x.Name)
+       @Html.TextBoxFor(x=>x.Age)
+       @Html.TextBoxFor(x=>x.Phone)
+       @Html.CheckBoxFor(x=>x.IsPass)
+    </div>
+    <div>
+        <h3>@Html.ActionLink("Go to Index Page","Index")</h3>
+    </div>
+    <br />
+    @Class1.Button("update")
+</body>
+</html>

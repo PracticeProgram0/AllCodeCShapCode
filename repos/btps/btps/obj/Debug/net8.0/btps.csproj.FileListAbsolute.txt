@@ -1,0 +1,14 @@
+C:\Users\manish\source\repos\btps\btps\bin\Debug\net8.0\btps.exe
+C:\Users\manish\source\repos\btps\btps\bin\Debug\net8.0\btps.deps.json
+C:\Users\manish\source\repos\btps\btps\bin\Debug\net8.0\btps.runtimeconfig.json
+C:\Users\manish\source\repos\btps\btps\bin\Debug\net8.0\btps.dll
+C:\Users\manish\source\repos\btps\btps\bin\Debug\net8.0\btps.pdb
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\btps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\btps.AssemblyInfoInputs.cache
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\btps.AssemblyInfo.cs
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\btps.csproj.CoreCompileInputs.cache
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\btps.dll
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\refint\btps.dll
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\btps.pdb
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\btps.genruntimeconfig.cache
+C:\Users\manish\source\repos\btps\btps\obj\Debug\net8.0\ref\btps.dll

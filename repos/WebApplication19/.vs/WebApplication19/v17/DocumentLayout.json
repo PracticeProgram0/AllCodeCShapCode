@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\WebApplication19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9829C95-A305-4D45-9070-8EDA47CAADB4}|WebApplication19\\WebApplication19.csproj|c:\\users\\manish\\source\\repos\\webapplication19\\webapplication19\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9829C95-A305-4D45-9070-8EDA47CAADB4}|WebApplication19\\WebApplication19.csproj|solutionrelative:webapplication19\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "WebApplication19\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\WebApplication19\\WebApplication19\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "WebApplication19\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T15:55:28.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

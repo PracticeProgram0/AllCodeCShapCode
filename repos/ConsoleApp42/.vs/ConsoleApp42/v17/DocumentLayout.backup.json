@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\ConsoleApp42\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4529F8-1A32-4C4F-809E-F850603F0437}|ConsoleApp42\\ConsoleApp42.csproj|c:\\users\\manish\\source\\repos\\consoleapp42\\consoleapp42\\btps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4529F8-1A32-4C4F-809E-F850603F0437}|ConsoleApp42\\ConsoleApp42.csproj|solutionrelative:consoleapp42\\btps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleApp42||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4529F8-1A32-4C4F-809E-F850603F0437}|ConsoleApp42\\ConsoleApp42.csproj|c:\\users\\manish\\source\\repos\\consoleapp42\\consoleapp42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4529F8-1A32-4C4F-809E-F850603F0437}|ConsoleApp42\\ConsoleApp42.csproj|solutionrelative:consoleapp42\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4529F8-1A32-4C4F-809E-F850603F0437}|ConsoleApp42\\ConsoleApp42.csproj|c:\\users\\manish\\source\\repos\\consoleapp42\\consoleapp42\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp42",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp42\\ConsoleApp42\\ConsoleApp42.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp42\\ConsoleApp42.csproj",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp42\\ConsoleApp42\\ConsoleApp42.csproj",
+              "RelativeToolTip": "ConsoleApp42\\ConsoleApp42.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-16T04:20:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BTPS.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp42\\ConsoleApp42\\BTPS.cs",
+              "RelativeDocumentMoniker": "ConsoleApp42\\BTPS.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp42\\ConsoleApp42\\BTPS.cs",
+              "RelativeToolTip": "ConsoleApp42\\BTPS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:08:50.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\ConsoleApp42\\ConsoleApp42\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp42\\Program.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\ConsoleApp42\\ConsoleApp42\\Program.cs",
+              "RelativeToolTip": "ConsoleApp42\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:07:05.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Mvc_Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E742A796-7705-49C5-AFC2-6A7F6555282E}|Mvc_Registration\\Mvc_Registration.csproj|c:\\users\\manish\\source\\repos\\mvc_registration\\mvc_registration\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E742A796-7705-49C5-AFC2-6A7F6555282E}|Mvc_Registration\\Mvc_Registration.csproj|solutionrelative:mvc_registration\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E742A796-7705-49C5-AFC2-6A7F6555282E}|Mvc_Registration\\Mvc_Registration.csproj|c:\\users\\manish\\source\\repos\\mvc_registration\\mvc_registration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E742A796-7705-49C5-AFC2-6A7F6555282E}|Mvc_Registration\\Mvc_Registration.csproj|solutionrelative:mvc_registration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E742A796-7705-49C5-AFC2-6A7F6555282E}|Mvc_Registration\\Mvc_Registration.csproj|c:\\users\\manish\\source\\repos\\mvc_registration\\mvc_registration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E742A796-7705-49C5-AFC2-6A7F6555282E}|Mvc_Registration\\Mvc_Registration.csproj|solutionrelative:mvc_registration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Mvc_Registration\\Mvc_Registration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mvc_Registration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Mvc_Registration\\Mvc_Registration\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Mvc_Registration\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:27:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Mvc_Registration\\Mvc_Registration\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Mvc_Registration\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Mvc_Registration\\Mvc_Registration\\Models\\Employee.cs*",
+              "RelativeToolTip": "Mvc_Registration\\Models\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:26:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Mvc_Registration\\Mvc_Registration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mvc_Registration\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Mvc_Registration\\Mvc_Registration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mvc_Registration\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:24:18.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

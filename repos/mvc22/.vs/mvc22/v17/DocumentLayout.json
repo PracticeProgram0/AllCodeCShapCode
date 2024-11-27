@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\mvc22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|c:\\users\\manish\\source\\repos\\mvc22\\mvc22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|solutionrelative:mvc22\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|solutionrelative:mvc22\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|solutionrelative:mvc22\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|solutionrelative:mvc22\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3458933A-2FCB-42A1-8B0E-768A8FF812B6}|mvc22\\mvc22.csproj|solutionrelative:mvc22\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvc22\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvc22\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:36:30.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Class1.cs",
+              "RelativeDocumentMoniker": "mvc22\\Class1.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Class1.cs",
+              "RelativeToolTip": "mvc22\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:16:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc22\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvc22\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:51:10.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "mvc22\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "mvc22\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:49:14.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "mvc22\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\mvc22\\mvc22\\Models\\Student.cs",
+              "RelativeToolTip": "mvc22\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:44:06.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
